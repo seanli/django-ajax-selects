@@ -1,4 +1,4 @@
-
+ [![Live Demo](https://usekite.com/live-demo-button.png)](http://localhost:3000/deploy)
 Enables editing of `ForeignKey`, `ManyToMany` and `CharField` using jQuery UI Autocomplete.
 
 User experience
